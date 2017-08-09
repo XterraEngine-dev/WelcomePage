@@ -1,0 +1,30 @@
+body{
+      margin:0;
+  font: normal 16px Arial, Helvetica, sand-serif;
+    background-size: cover;
+    background-color: #263238;
+    
+}
+#particles-js{
+    background-size: cover;
+    background:#263238;
+    height:100%;
+    width:100%;
+}
+#login{
+  opacity:0.80;
+  padding:2em;
+  position:absolute;
+  top:200px;
+  left:300px;
+}
+#login input[type="text"], #login input[type="password"]{
+  padding:7px;
+  margin-bottom:10px;
+  border:1px #ccc solid;
+  
+}
+label{
+    color:#CCC;
+    font-size: 100px;
+}
